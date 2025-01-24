@@ -156,12 +156,22 @@
 
 ## Education & Qualifications
 
-* __Turan University__
-
-  Master's degree, Computer Science, 2013 - 2015
 * __Moscow Financial and Industrial University «Synergy»__
 
   Master's degree, Strategic management, 2015 - 2017
+
+* __Turan University__
+
+  Master's degree, Computer Science, 2013 - 2015
+
+* __Turan University__
+
+  Bachelor's degree, Computer Science 2010 - 2013
+
+* __Central Asian Technical Economic College__
+
+  Associate's degree, Computer Software Engineering 2006 - 2010
+  
 
 ## Misc. Information
 
