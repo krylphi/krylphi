@@ -151,8 +151,8 @@
 ##### Projects:
 - Laboratory Information System (LIS) for Blood Centers
 - LIS for medical laboratories
-- Various Medical eqipment integrations for LIS
-- Patient notification System
+- Various Medical equipment integrations for LIS
+- Patient notification system
 
 ## Education & Qualifications
 
