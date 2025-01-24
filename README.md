@@ -1,7 +1,8 @@
 ## Hello there 👋 I'm Vsevolod. You can call me Seva 😏
 
 I'm software developer with more than a decade experience. I'm currently working at [Vention](https://ventionteams.com/)
-My specialisation is primarily with distributed platforms. And my favorite language is Golang. (Although I've got experience with variety of technologies)
+
+My specialisation is primarily with distributed platforms. And my favorite programming language is Golang. (Although I've got experience with variety of technologies)
 
 ## About Me
 🌟 Senior Software Engineer at Vention
