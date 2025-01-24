@@ -28,7 +28,7 @@ Throughout my career, I’ve worked on a vast array of projects, ranging from:
 - Designing scalable solutions for **E-Commerce platforms**, ensuring high performance and reliability.  
 - Collaborating with cross-functional teams to deliver **mission-critical medical systems**.  
 
-Each project has been an opportunity to learn, grow, and contribute to solving real-world problems with technology. For a detailed overview of my career, check out my [CV](https://github.com/krylphi/krylphi/blob/main/CV.md).  
+Each project has been an opportunity to learn, grow, and contribute to solving real-world problems with technology. For a detailed overview of my career, check out my __[Curriculum Vitae📜](https://github.com/krylphi/krylphi/blob/main/CV.md)__.  
 
 ---
 
